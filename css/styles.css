@@ -37,6 +37,7 @@ color: #4d5ae5;
 }
 
 .header-logo-studio {
+  font-family: "Ralevay", sans-serif;
 font-weight: 700;
 font-size: 18px;
 line-height: 1.17;
@@ -47,12 +48,12 @@ color: #2E2F42;
 }
 
 .navigation {
-  font-family: var(--font-family);
-  font-weight: 400;
+  
+  font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
+  color: #2e2f42;
 }
 
 .contacts {
@@ -117,10 +118,7 @@ color: #2E2F42;
 }
 
 .teammates {
-  border-radius: 0 0 4px 4px;
-padding: 0px 0px 32px 0px;
-width: 264px;
-height: 380px;
+ 
 background-color: #ffffff;
 }
 
@@ -142,14 +140,9 @@ text-align: center;
 color: #434455;
 }
 
-.teammates>img {
-  width: 264px;
-height: 260px;
-}
-
 
 .our-portfolio-text {
-  text-transform: capitalize;
+text-transform: capitalize;
 font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
@@ -159,6 +152,7 @@ color: #2E2F42;
 }
 
 .our-portfolio>h3 {
+text-transform: capitalize;
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
@@ -174,10 +168,6 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
-.our-portfolio>img {
-  width: 360px;
-height: 300px;
-}
 
 
 
