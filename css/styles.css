@@ -4,6 +4,13 @@ body {
   background-color: #ffffff;
 }
 
+button:hover {
+  background-color: #404BBF;
+}
+a:hover {
+  color: #404BBF;
+}
+
 .logo {
   font-weight: 700;
   font-size: 18px;
